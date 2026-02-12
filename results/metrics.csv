@@ -1,0 +1,9 @@
+Metric,Value
+Documents,1400
+Queries,225
+Vocabulary Size,7184
+TF-IDF Precision@10,0.2173
+PCA-100 Precision@10,0.2133
+Variance at k=20,0.1380
+Variance at k=50,0.2332
+Variance at k=100,0.3404
